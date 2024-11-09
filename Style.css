@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+
+    background-image: url(diable.jpg);
+
+
+         font-family: 'Oswald' , sans-serif ;
+         padding : 0 ;
+         margin : 0 ;
+    }
+
+       ul {
+        padding : 0 
+        marging : 0
+        }
+
+        li{
+       list-style-type: none ;
+           }
+         
+         h3{
+            text-transform: uppercase;
+            padding-left: 5px;
+            text-align: left;
+            color: #830909;
+            padding-top: 10px;
+            padding-bottom: 10px;
+
+         }
+         
+           h2{
+            text-transform: uppercase;
+            text-align: right;
+            padding-right: 5px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            display: block ;
+            color: #830909
+        
+           }
+
+           
+         h5 {
+             text-transform: uppercase;
+             text-align: center;
+             padding-bottom: 10px;
+            font-size: 2em;
+            color: #830909
+           }
+
+        a{
+            text-decoration: none;
+            color: black
+        }
+         }
+        
+}
+
+/* *********NAVBAR********** */
+li{
+    overflow: hidden;
+    position:fixed;
+    background-color: #FFFAE1;
+}
